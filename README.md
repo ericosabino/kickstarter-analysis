@@ -18,7 +18,7 @@ This project consists of a dataset that includes information about multiple Kick
 
 According to the launch date of each campaign, the performance can be seen in the graph below:
 
-![Figure 1. All Category Outcomes - United States] (https://github.com/ericosabino/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
+![Figure 1. All Category Outcomes - United States](https://github.com/ericosabino/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 
 ### Analysis of Outcomes Based on Goals
