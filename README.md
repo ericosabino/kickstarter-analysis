@@ -20,7 +20,7 @@ The graph below shows how the campaigns performed according to their launch mont
 
 ### Analysis of Outcomes Based on Goals
 
-The graph below shows the percentage of each type of outcome (successful, failed and canceled) based on how much was the goal for each campaign.
+The graph below shows the percentage of each type of outcome (successful, failed and canceled) based on how much was the goal for each campaign:
 
 ![Figure 2. Outcomes based on Goals](https://github.com/ericosabino/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
@@ -38,9 +38,9 @@ The graph below shows the percentage of each type of outcome (successful, failed
 1. May and June are the best months to launch a campaign, based on the performance of the campaigns listed on the dataset.
 2. December is the worst month to launch a campaign.
 
-*Additional comments:
-** While the performance trends downwards starting in May, October broke the trend with 65 successful campaigns, compared to 59 in September and 54 in November.
-** There were no canceled campaigns in October, but the number of failed campaigns was 50, compared to 34 in the previous month and 31 in the following month.
+   Additional comments:
+   - While the performance trends downwards starting in May, October broke the trend with 65 successful campaigns, compared to 59 in September and 54 in November.
+   - There were no canceled campaigns in October, but the number of failed campaigns was 50, compared to 34 in the previous month and 31 in the following month.
 
 - What can you conclude about the Outcomes based on Goals?
 
