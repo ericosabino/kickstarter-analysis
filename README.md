@@ -1,12 +1,5 @@
 # Kickstarter Campaigns Analysis
 
-## Project Overview.
-
-##Analysis and Challenges
-
-### Main Conclusions
-# Kickstarting with Excel
-
 ## Overview of Project
 
 ### Purpose
@@ -18,10 +11,20 @@ This project consists of a dataset that includes information about multiple Kick
 
 According to the launch date of each campaign, the performance can be seen in the graph below:
 
-![Figure 1. All Category Outcomes - United States](https://github.com/ericosabino/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
+![Figure 1. Theater Outcomes based on Launch Date]https://github.com/ericosabino/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png
 
 
 ### Analysis of Outcomes Based on Goals
+
+The performance of each campaign based on Goals can be found in the chart below:
+
+![Figure 2. All Category Outcomes - United States](https://github.com/ericosabino/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
+
+
+
+
+
+
 
 ### Challenges and Difficulties Encountered
 
@@ -34,6 +37,14 @@ According to the launch date of each campaign, the performance can be seen in th
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
 
 
 
